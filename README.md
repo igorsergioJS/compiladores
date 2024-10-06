@@ -1,6 +1,6 @@
 # Tradutor de Expressões Aritméticas (Prefixada para Pós-fixada)
 
-Tradutor de expressões aritméticas em notação prefixada (onde os operadores vêm antes dos operandos) para notação pós-fixada (onde os operadores vêm depois dos operandos). O código utiliza C++ e CMake para a construção e execução.
+Tradutor de expressões aritméticas em notação prefixada (onde os operadores vêm antes dos operandos) para notação pós-fixada (onde os operadores vêm depois dos operandos). O código utiliza C++ e CMake para a construção e execução. Foi utilizado como base do código o laboratório 5 fornecido pelo Professor Judson Santiago no seguinte [repositório](https://github.com/JudsonSS/Compiladores/tree/master/Labs/Lab05).
 
 ## Requisitos
 
